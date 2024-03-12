@@ -7,7 +7,7 @@ Pave-Temperature-Sense-Calculate-Platform是一个综合性的路面温度感测
 -   **数据分析**：应用统计和机器学习方法，对数据进行深入分析和趋势预测。
 -   **前端展示**：通过用户友好的界面展示数据分析结果，提供直观的数据可视化。
 ## 3. 项目框架
-![系统框架图](System Framework.png)
+![系统框架图]([System Framework.png](https://github.com/Dai-BingU/Pave-Temperature-Sense-Calculate-Platform/blob/main/System%20Framework.png))
 ## 4. 安装指南
 1.  克隆仓库到本地：`git clone <仓库地址>`
 2.  安装必要的依赖：`pip install -r requirements.txt`
